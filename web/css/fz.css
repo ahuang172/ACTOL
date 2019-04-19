@@ -1,0 +1,413 @@
+
+.leftinf{
+    position: absolute;
+    left: 1140px;
+    top:330px;
+    
+}
+.leftinf-per{
+    
+    width: 100%;
+    border-bottom:1px solid rgba(128,128,128,0.6);
+    height: auto;
+    padding-bottom:450px;
+    position: relative;
+}
+.leftinf-per-1{
+    
+  width: 100%;
+  border-bottom:0px solid rgba(128,128,128,0.6);
+  height: auto;
+  padding-bottom:450px;
+  position: relative;
+}
+.btnc{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    position: absolute;
+   top:305px;
+
+}
+.btnc button{
+    width: 80%;
+    margin-top: 10px;
+    
+   
+}
+
+.badge {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    background-color: red;
+    border-radius: 10px;
+    position: absolute;
+    
+    bottom: 7px;
+    right: 35px
+  }
+  .rightv{
+    position: absolute;
+    left: 70px;
+    border-radius: 10px;
+    top:330px;
+    padding-top:30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border:1px solid rgba(128,128,128,0.4);
+    margin-bottom:50px;
+    background: rgba(256,256,256,0.5);
+  }
+  .workq{
+    
+      padding-bottom: 30px;
+      padding-left: 15px;
+      padding-right: 15px;
+  }
+  .workq-r-t{
+    
+    background: white;
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2);
+    border-radius:5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .workq-r{
+
+    border-radius:5px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .workq-b{
+    height: 810px;
+    background: rgba(256,256,256,0.9);
+    border-radius:0px 0px 5px 0px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .workq-b-son{
+    
+  
+    padding-bottom: 30px;
+      padding-left: 25px;
+      padding-right: 25px;
+  }
+.row{
+      margin-top:10px;
+      
+     
+  }
+.row-2{
+    margin-top:-3px;
+}
+.workq-r-t-r{
+    background: rgba(256,256,256,0.6);
+ 
+    overflow: hidden;
+    border-radius:0px 0px 0px 5px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .workq-r-title{
+    background: rgba(256,256,256);
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
+    overflow: hidden;
+    border-radius:5px 5px 0px 0px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+.workq-r-t-r h2{
+    margin-left: 10px;
+}
+.rollll{
+    height:800px; 
+    margin-right:-45px; 
+    overflow: auto;   
+    position: relative;
+  }
+.workq-f{
+       width:97%;
+        
+  }
+ .workq-title{
+      border-bottom: 1px solid rgba(128,128,128,0.6);
+  }
+.workq-title h5{
+    color: grey;
+    margin-top: 13px;
+    float: left;
+}
+
+.workq-title h4{
+    float: left;
+}
+.workq-inf{
+    margin-top: 5px;
+   
+    padding: 5px;
+  
+}
+.workq-inf h5{
+    color: grey;
+}
+.workq-title button{
+ 
+    height:33px;
+    width: 80px;
+    margin-top: 4px;
+    margin-left: 160px;
+   
+}
+.finshbtn{
+  background: gray;
+  border: 1px solid gray;
+}
+.workq-b-son button{
+  height:70px ;
+  margin-top: 30px;
+}
+.modal-content {
+  padding-left: 20px;
+  padding-right: 20px;
+  position: relative;
+  background-color: #fff;
+  -webkit-background-clip: padding-box;
+          background-clip: padding-box;
+  border: 1px solid #999;
+  border: 1px solid rgba(0, 0, 0, .2);
+  border-radius: 6px;
+  outline: 0;
+  margin-left:-270px;
+  width: 1200px;
+  -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+          box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+}
+.modal-header {
+  text-align: center;
+
+  border-bottom: 1px solid #e5e5e5;
+}
+.modal-header h1{
+  margin-top: 15px;
+}
+.modal-body {
+
+  height: 800px;
+}
+.modal-body-2{
+  text-align: left;
+  height: 450px;
+ 
+}
+.rollll-1{
+  height:770px; 
+  margin-right:-45px; 
+  overflow: auto;   
+  position: relative;
+}
+.modal-content-1 {
+  padding-left: 20px;
+  padding-right: 20px;
+  position: relative;
+  background-color: #fff;
+  -webkit-background-clip: padding-box;
+          background-clip: padding-box;
+  border: 1px solid #999;
+  border: 1px solid rgba(0, 0, 0, .2);
+  border-radius: 6px;
+  outline: 0;
+  margin-left:0px;
+  width: 700px;
+  -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+          box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+}
+.modal-header-1 {
+  text-align: center;
+
+  border-bottom: 1px solid #e5e5e5;
+}
+.modal-header-1 h1{
+  margin-top: 15px;
+}
+.modal-body-1 {
+
+ height: 100px;
+}
+.adf h4{
+  float: left;
+}
+.adf textarea:focus{
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2);
+    background: white;
+    border: 2px solid rgba(20, 35, 255, 0.48);
+    
+}
+.adf textarea{
+  
+  margin-left: 20px;
+  font-size: 15px;
+  min-width: 792px;
+  min-height: 150px;
+  max-width: 792px;
+  max-height: 150px;
+  margin-top: 10px;
+  resize: none;
+  border-radius: 15px;
+  border: 2px solid rgba(0, 0, 0,0.5);
+  outline: none;
+  padding-left:10px;
+  padding-top:10px;
+  background-color: transparent;
+}
+.adf select{
+  font-size: 15px;
+  margin-left: 20px;
+  padding-left: 5px;
+  margin-top: 10px;
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  border: 2px solid rgba(0, 0, 0,0.5);
+  outline: none;
+}
+.adf select:focus{
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2);
+    background: white;
+    border: 2px solid rgba(20, 35, 255, 0.48);
+    
+}
+
+.adf1 h4{
+  float: left;
+}
+.adf1 textarea:focus{
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2);
+    background: white;
+    border: 2px solid rgba(20, 35, 255, 0.48);
+   
+}
+.adf1 textarea{
+  
+  margin-left: 20px;
+  font-size: 15px;
+  min-width: 592px;
+  min-height: 150px;
+  max-width: 592px;
+  max-height: 150px;
+  margin-top: 10px;
+  resize: none;
+  border-radius: 15px;
+  border: 2px solid rgba(0, 0, 0,0.5);
+  outline: none;
+  padding-left:10px;
+  padding-top:10px;
+  background-color: transparent;
+}
+.adf1 select{
+  font-size: 15px;
+  margin-left: 20px;
+  padding-left: 5px;
+  margin-top: 10px;
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  border: 2px solid rgba(0, 0, 0,0.5);
+  outline: none;
+}
+.workq-r-title button{
+  width: 70px;
+  margin-top: -40px;
+  float: right;
+}
+.workq-r-t-r video{
+  margin-top: 20px;
+  width: 100%;
+  height: 400px;
+  border-radius: 5px;
+}
+.rollll-2{
+  height:600px; 
+  margin-right:-45px; 
+  overflow: auto;   
+  position: relative;
+}
+.workq-title-1 button{
+ 
+  height:33px;
+  width: 80px;
+  margin-top: 4px;
+  margin-left: 2px;
+ 
+}
+.workq-b-1{
+  height: 1030px;
+  background: rgba(256,256,256,0.9);
+  border-radius:0px 0px 5px 0px;
+  padding-bottom: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.inf-z-tx-1{
+  position: absolute;
+  left: 40px;
+  top:5px;
+  
+}
+.leftinf-per-1 h3{
+  position: absolute;
+  left: 20px;
+  top:105px;
+  
+}
+.leftinf-zc-1{
+  text-align: center;
+  position: absolute;
+  top:130px;
+  left:95px;
+  width: 65px;
+  height: 20px;
+  background: lightseagreen;
+  border-radius: 5px;
+}
+.leftinf-mess-1{
+  text-align: center;
+  border: 0px;
+}
+.progress{
+  border: 2px solid gray;
+}
+.progress-1{
+  height: 30px;
+  margin-top: 10px;
+  border: 2px solid gray;
+}
+.tit{
+  position: absolute;
+  left: 70px;
+  border-radius: 10px;
+  top:230px;
+  padding-left: 15px;
+
+  background: rgba(256,256,256,0.6);
+}
+#kill{
+  margin-top: 0px;
+  height: 50px;
+  margin-left: 50px;
+  text-align: center;
+
+}
