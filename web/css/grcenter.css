@@ -1,0 +1,424 @@
+.grhead{
+    height: 15px;
+    margin-top:400px;
+    position: relative;
+    background: rgb(128, 233, 236);
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+#timage{
+    position: absolute;
+    left: 100px;
+    top:-170px;
+    height: 0px;
+    padding-bottom: 16%;
+    background:deepskyblue;
+    border-radius: 50%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    border: 4px solid rgba(0,0,0,0.4);
+    overflow: hidden;
+}
+#grtx{
+    position: absolute;
+    left: 0px;
+    right:0px;
+    top: 0px;
+    bottom: 0px;
+    height: 100%;
+    width: 100%;
+ 
+}
+.message{
+    position: absolute;
+    left: 375px;
+    top:-140px;
+}
+.message h3{
+    margin-left: 20px;
+}
+.pesinf{
+    background: rgba(256,256,256,0.8);
+    border: 1px solid rgba(128,128,128,0.5);
+    height: 1250px;
+    margin-left: 180px;
+    margin-top: 140px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.nav-tabs{
+    position:absolute;
+    left: 0px;
+    height: 100%;
+    width: 150px;
+    border-bottom: none;
+    border-right: 2px solid #ddd;
+}
+.nav-tabs li{
+    width: 150px;
+    float: none;
+}
+.tab-content{
+
+    position:absolute;
+    top:0px;
+    left: 150px;
+    right:0px;
+    bottom: 0px;
+    width:84%;
+    
+}
+.inf{
+    width: 100%;
+    height: 100%;
+}
+
+.inf-z{
+    margin-left:15px;
+    width: 100%;
+    height:230px;
+    border-bottom:1px solid rgba(128,128,128,0.5);
+}
+.inf-z-name h3{
+    position: absolute;
+    top:50px;
+    left: 160px;
+    width: 100px; 
+    
+}
+.inf-z-name h5{
+    width: 500px;
+    position: absolute;
+    top:105px;
+    left: 160px;
+    padding: 8px;
+    border: 1px solid rgba(128,128,128,0.5);
+    border-radius: 8px;
+}
+.inf-z-name-ch{
+    text-align: center;
+    position: absolute;
+    top:75px;
+    left: 250px;
+    width: 65px;
+    height: 20px;
+    background: rgb(255, 196, 0);
+    border-radius: 5px;
+}
+.inf-z-name-ch p{
+    color: white;
+}
+.inf-z-tx{
+    position: absolute;
+    top:50px;
+    left: 40px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    border:2px solid rgba(128,128,128,0.5);
+}
+.inf-z-tx img{
+   
+    width: 100%;
+    height: 100%;
+}
+#change{
+    position: absolute;
+    top:10px;
+    right: 15px;
+   
+}
+.inf-xm{
+    margin-left:15px;
+    width: 100%;
+    height:280px;
+    border-bottom:1px solid rgba(128,128,128,0.5);
+}
+#more{
+    position: absolute;
+    top:250px;
+    right: 0px;
+    
+}
+.xmjl{
+    margin-left:15px;
+    width: 100%;
+    height:300px;
+    border-bottom:1px solid rgba(128,128,128,0.5);
+}
+.jxxm{
+    margin-left:15px;
+    width: 100%;
+    height:175px;
+    border-bottom:1px solid rgba(128,128,128,0.5);
+}
+.jxxm-image{
+    
+    margin-top: 15px;
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+    overflow: hidden;
+    border:2px solid rgba(128,128,128,0.5);
+}
+.jxxm-image image{
+    width: 100%;
+    height: 100%;
+}
+#move{
+    position: absolute;
+    top:10px;
+    right: 15px;
+   
+}
+.jxxm-inf-zw-yy{
+    text-align: center;
+    position: absolute;
+    top:55px;
+    left: 380px;
+    width: 65px;
+    height: 20px;
+    background: lightseagreen;
+    border-radius: 5px;
+}
+.jxxm-inf-zw-hq{
+    text-align: center;
+    position: absolute;
+    top:580px;
+    left: 380px;
+    width: 65px;
+    height: 20px;
+    background: green;
+    border-radius: 5px;
+}
+.jxxm-inf-zw-dy{
+    text-align: center;
+    position: absolute;
+    top:230px;
+    left: 380px;
+    width: 65px;
+    height: 20px;
+    background: red;
+    border-radius: 5px;
+}
+.jxxm-inf-zw-bj{
+    text-align: center;
+    position: absolute;
+    top:405px;
+    left: 380px;
+    width: 65px;
+    height: 20px;
+    background: black;
+    border-radius: 5px;
+}
+.jxxm-inf-zw-yy p{
+    color: white;
+}
+.jxxm-inf-zw-dy p{
+    color: white;
+}
+.jxxm-inf-zw-bj p{
+    color: white;
+}
+.jxxm-inf-zw-hq p{
+    color: white;
+}
+.jxxm-inf h2{
+    position: absolute;
+    top:25px;
+    left: 250px;
+}
+.jxxm-inf h5{
+   
+    position: absolute;
+    top:90px;
+    left: 250px;
+    padding: 8px;
+    border: 1px solid rgba(128,128,128,0.5);
+    border-radius: 8px;
+}
+.jxxm-inf-1 h2{
+    position: absolute;
+    top:200px;
+    left: 250px;
+}
+.jxxm-inf-1 h5{
+    
+    position: absolute;
+    top:265px;
+    left: 250px;
+    padding: 8px;
+    border: 1px solid rgba(128,128,128,0.5);
+    border-radius: 8px;
+}
+.jxxm-inf-2 h2{
+    position: absolute;
+    top:375px;
+    left: 250px;
+}
+.jxxm-inf-2 h5{
+    
+    position: absolute;
+    top:440px;
+    left: 250px;
+    padding: 8px;
+    border: 1px solid rgba(128,128,128,0.5);
+    border-radius: 8px;
+}
+.jxxm-inf-3 h2{
+    position: absolute;
+    top:550px;
+    left: 250px;
+}
+.jxxm-inf-3 h5{
+    
+    position: absolute;
+    top:615px;
+    left: 250px;
+    padding: 8px;
+    border: 1px solid rgba(128,128,128,0.5);
+    border-radius: 8px;
+}
+
+#move1{
+    position: absolute;
+    top:200px;
+    right: 15px;
+   
+}
+#move2{
+    position: absolute;
+    top:400px;
+    right: 15px;
+   
+}
+#move3{
+    position: absolute;
+    top:600px;
+    right: 15px;
+   
+}
+.changeinf h4{
+        margin-left: 100px;
+        margin-top:20px;
+}
+.changeinf-1{
+    text-align: center;
+    width: 103%;
+    height:55px;
+    border-bottom:1px solid rgba(128,128,128,0.5);
+}
+.changeinf-1 h2{
+    color: red;
+}
+.changeinf{
+    margin-left:15px;
+    width: 100%;
+}
+.changeinf-nc{
+    height: 44px;
+    margin-top: 25px;
+}
+.changeinf-nc h4{
+    margin-left: 100px;
+    float: left;
+}
+.changeinf-nc input{
+    margin-left: 25px;
+    margin-top: 18px;
+    border-radius: 10px;
+    height:35px;
+    width: 200px;
+    border: 2px solid rgba(0, 0, 0,0.5);
+    outline: none;
+    padding-left:15px;
+    background-color: transparent;
+}
+.changeinf-nc input:focus{
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2);
+    background: white;
+    border: 2px solid rgba(20, 35, 255, 0.48);
+    
+}
+.changeinf-nc textarea:focus{
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2);
+    background: white;
+    border: 2px solid rgba(20, 35, 255, 0.48);
+    
+}
+.changeinf-nc p{
+    margin-left: 50px;
+    margin-top: 19px;
+    float: left;
+    color: gray;
+}
+.changeinf-nc h5{
+    margin-left: 20px;
+    margin-top: 22px;
+    float: left;
+    color: gray;
+}
+.changeinf-nc textarea{
+    min-width: 592px;
+    min-height: 130px;
+    max-width: 592px;
+    max-height: 130px;
+    margin-top: 20px;
+    resize: none;
+    border-radius: 15px;
+    border: 2px solid rgba(0, 0, 0,0.5);
+    outline: none;
+    padding-left:10px;
+    padding-top:10px;
+    background-color: transparent;
+}
+.changeinf-nc button{
+    margin-top: 60px;
+    margin-left: 350px;
+    width: 200px;
+}
+.changeinf-nc-xb{
+    height: 44px;
+    margin-top: 115px;
+}
+.changeinf-nc-xb h4{
+    margin-left: 100px;
+    float: left;
+}
+.changeinf-nc-xb input{
+    margin-left: 20px;
+    margin-top: 24px;
+}
+.nav-tabs > li.active > a:focus {
+    color: white;
+    cursor: default;
+    background-color:rgb(57, 195, 219);
+   
+    border-bottom-color: transparent;
+    border-radius: 5px；
+  }
+.nav-tabs > li > a {
+
+    line-height: 1.42857143;
+    
+    border-radius:5px ;
+    font-size: 20px;
+  }
+  .modal-footer{
+    border-top: 0px;
+  }
+  .modal-body {
+    text-align: center;
+    position: relative;
+    font-size: 30px;
+  }
+  .modal-footer {
+    
+    padding: 15px;
+    border-top: 1px solid #e5e5e5;
+  }
+ 
+.modal-footer button{
+    width: 100px;
+    float: left;
+}

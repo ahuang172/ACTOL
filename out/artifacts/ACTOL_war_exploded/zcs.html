@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注册成功</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/zhuye.css" type="text/css" rel="stylesheet"/>
+    <link href="css/fz.css" type="text/css" rel="stylesheet"/>
+    <link href="css/houhou.css" type="text/css" rel="stylesheet"/>
+    <link href="css/zyq.css" type="text/css" rel="stylesheet"/>
+    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+ 
+    <div class="row workq workqsu">
+    <div class="col-md-12 workq-r-title">
+             <h2>注册成功</h2>
+    </div>
+    <div class="col-md-12 container workq-r-t-r succb">
+    <div class="row clearfix">
+        <div class="col-md-12 row column zcsuss">
+           
+            <p class="col-md-12">
+              返回首页或是前往个人中心（不选择将在<small id="dtime" style="color:red">5</small>s后返回主页）
+            </p>
+        </div>
+    </div>
+    <div class="row clearfix">
+        <div class="col-md-6 column zcsuss">
+            <button class="btn btn-default btn-lg" type="button" onclick="location.href='个人中心.html'">前往个人中心</button>
+        </div>
+        <div class="col-md-6 column zcsuss">
+            <button class="btn btn-default btn-lg" type="button" onclick="location.href='login.jsp'">返回首页</button>
+        </div>
+    </div>
+    </div>
+</div>
+<script>
+   window.onload=function(){
+       setInterval('djshi()',1000);
+   }
+   var djtim=5;
+   function djshi(){
+        if(djtim>0){
+            document.getElementById("dtime").innerHTML=djtim--;
+        }
+        else{
+            location="login.jsp";
+        }
+   }
+</script>
+</body>
+</html>

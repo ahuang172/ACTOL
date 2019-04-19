@@ -1,0 +1,193 @@
+.workq{
+ 
+    position: absolute;
+    left: 85px;
+    top:275px;
+    width: 90%;
+
+}
+.workq-r-title{
+    text-align: center;
+}
+.clearfix p{
+    margin-left:480px;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.workq-r-t-r{
+    padding-bottom: 20px;
+}
+.clearfix p input{
+    margin-left: 20px;
+    font-size: 12px;
+  
+}
+.clearfix  input{
+    margin-left: 500px;
+  
+}
+.clearfix p select{
+    margin-left: 20px;
+    width: 200px;
+  
+}
+.rwxinx{
+    margin-left: 490px;
+    width: 500px;
+    margin-bottom: 50px;
+}
+.column button{
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 330px;
+}
+.adf input{
+    width: 200px;
+}
+.adf p button{
+    width: auto;
+    margin-left:0px;
+    margin-top:0px;
+}
+.zcsuss{
+    text-align: center
+}
+
+.zcsuss p{
+    margin-top: 40px;
+    margin-bottom: 150px;
+    margin-left: 30px;
+}
+.zcsuss button{
+    width: 200px;
+    margin-left: 0px;
+}
+.succb{
+    margin-bottom: 100px;
+    border-radius: 10px;
+    border: 1px solid rgba(128,128,128,0.3);
+}
+.workqsu{
+    position: absolute;
+    left: 85px;
+    top:125px;
+}
+.succb-1{
+    margin-bottom: 100px;
+
+    border: 1px solid rgba(128,128,128,0.3);
+}
+.zcsuss-1{
+ 
+    font-size: 30px;
+}
+.zcsuss-1 p{
+   margin-left: 0px;
+    margin-bottom: 30px;
+    margin-top:0px;
+}
+.xinxi {
+    overflow: hidden;
+    border-radius: 10px;
+    border: 2px solid rgb(128,128,128);
+    width: 800px;
+    height: 150px;
+    margin-left: 250px;
+}
+#tzmoney{
+    margin-left: 0px;
+    width: 100%;
+}
+#tzbtn{
+    margin-top: -5px;
+    margin-left: 0px;
+    width: 100%;
+}
+.nmsl p{
+    margin-left: 0px;
+}
+.nmsl{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 50px;
+}
+.nmsl h2{
+    margin-left: 0px;
+}
+.xqxx h2{
+   
+    text-align: center;
+    border:5px dashed lightseagreen;
+}
+.xqxx h5{
+    float: left;
+
+}
+.workq-b{
+    height: auto;
+    background: rgba(256,256,256,0.9);
+    border-radius:0px 0px 0px 10px;
+    padding-bottom: 30px;
+ 
+    margin-bottom: 50px;
+  }
+  .progress{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .yylb{
+      height: 400px;
+      overflow: auto;
+  }
+  .workq-r-t-r-12{
+    border-radius:0px 0px 10px 0px;
+      height:773px;
+  }
+  .nmsl button{
+      margin-left: 180px;
+  }
+  .adf-22 input{
+      margin-left: 0px;
+  }
+  .adf-22 textarea{
+    margin-left: 0px;
+}
+.adf-22 button{
+  
+   width: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.btn-1 {
+    display: inline-block;
+    padding: 0px 0px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+  }
+  .workq-r-t-r{
+      margin-bottom: 50px;
+  }
+  .xmsl{
+     height: 200px;
+    overflow:auto;
+  }
+  .modal-footer-1 button{
+      margin-left: 20px;
+        width: 200px;
+  }

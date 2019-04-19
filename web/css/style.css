@@ -1,0 +1,102 @@
+
+.bttt{
+    width:200px;
+    height:40px;
+    color:white;
+    background-color:rgb(48, 150, 240);
+    border:none;
+}
+button{
+    width:300px;
+    height:40px;
+    color:white;
+    background-color:rgb(48, 150, 240);
+    border:none;
+}
+select{
+    width:300px;
+    height:40px;
+    font-size:20px;
+}
+
+.fenlei{
+    display: inline-block;
+    vertical-align:top;
+    margin-left:50px;
+    margin-top:250px;
+    width:243px;
+    background-color: white;
+}
+
+.movie{
+    position:absolute;
+    display:inline-block;
+    height:1600px;
+    margin-left:80px;
+    margin-top:250px;
+    width:1000px;
+    background-color: white;
+}
+
+.watch{
+    
+    text-align:center;
+    margin:auto;
+    margin-top:275px;
+    padding-bottom:20px;
+    
+    background-color: #232325;
+}
+
+
+
+.forget{
+    border: 1px solid  rgba(0,0,0,0.1);
+    padding:20px 20px 20px;
+    height:600px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: white;
+}
+
+.info{
+    position:absolute;
+    display:inline-block;
+    height:1000px;
+    margin-left:50px;
+    margin-top:275px;
+    width:350px;
+    background-color: white;
+    text-align: center;
+}
+
+.fenlei li{
+    float:left;
+    margin:0 33px 6px 0;
+    
+    
+}
+.fenlei a{
+    color:black;
+}
+
+.card{
+    margin-top: 30px;
+    width: 316px;
+    float: left;
+    
+}
+
+.badge{
+    background-color: red;
+}
+.divstyle{
+    border-radius: 10px;
+    border: 1px solid  rgba(0,0,0,0.1);
+}
+.workq{
+    position: absolute;
+    left: 85px;
+    top:125px;
+    width: 90%;
+    margin-bottom: 50px;
+}
